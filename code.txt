@@ -1,0 +1,74 @@
+<!doctype html>
+
+<html>
+
+<head>
+<title>OneMiningService</title>
+</head>
+
+<body bgcolor="#f3f3a1">
+
+<table border="0" width="70%" height="1200" align="center" bgcolor="#583d1b">
+<tr height="140"><td colspan="8"><img src="logo up.png" width="100%" height="100%"/></td>                                                          </tr>
+<tr height="40" bgcolor="#f3f3a1"><th width="10%"><a href="#">Home</a></th><th width="10%"><a href="#">Registration</a></th><th width="10%"><a href="#">Trade</a></th><th width="10%"><a href="#">New Project</a></th><th width="10%"><a href="#">Careers</a></th><th width="6%"><a href="#">FAQs</a></th><th width="7%"><a href="#">About us</a></th><th width="7%"><a href="#">Log in</a></th></tr>
+
+<tr height="360"><td colspan="5"><img src="wallpaper.JPG" width="100%" height="40%"alt="Loading..."/></td>                                     
+<td colspan="3"><h3>Latest events<hr></h3>
+<ul>
+<li>Rwandan miners have been called on to operate professionally in order to increase productivity as well as attract more investors in the sector. The me</li>
+<li>On 4th May, 2018 Rwanda Mining Association held its General Assembly Lemigo Hotel – Kigali</li>
+<li>The Chief Executive Officer of Rwanda Mines, Petroleum and Gas Board Hon. Francis GATARE in an interview with The New Times, shed light on the new Min</li>
+</ul>
+</td></tr>
+
+
+<tr height="300">
+<td colspan="5"><h3>Events<hr></h3>  
+<ul>
+<li>All geologist are encouraged to attend rwanda mining summit which will take action on 29.december.2018 this is about build a strong trade of minerals</li>
+<li>Minister of infrastructure visits the site of karongi mining, they are many company extracting minerals their but they reclaim the road so that can facilitate the transport, The minister allow to put that in the bugdet</li>
+<li>The Government of Rwanda expects to boost long-term investments in tantalum mineral that will benefit the sector from the minors who were surviving un</li>
+<li>Mineral exports surpassed expectations in 2017 to rake in $373m in 2017 up from $166m in the previous year, according to statistics from the Rwanda Mi</li>
+<li>The Chief Executive Officer of Rwanda Mines, Petroleum and Gas Board Hon. Francis GATARE in an interview with The New Times, shed light on the new Min</li>
+<li>There is growing confidence that Rwanda’s mining sector holds a lot of potential. And, in the wake of a new set of ambitious development goals for the</li>
+</ul>
+</td>                                    
+
+<td colspan="3"><h3>Social media</h3>
+<hr>
+<h3>Facebook</h3>one mining service
+<h3>Twitter</h3>@oneminingservice
+<h3>Instagram</h3>@one_mining_service
+</td></tr>
+
+<tr height="300"><td colspan="4"><h3>Contact us<hr></h3>
+Name<br><input type="text" size="60" name="name"/><br>
+Email<br><input type="text" size="60" name="email"/><br>
+Message<br><textarea rows="5" cols="61" name="comment"></textarea><br>
+<input type="submit" size="8" name="Submit"/>
+</td>                                   
+ <td colspan="4"><h3>Mission<hr></h3>
+ The overall mission of IER is to advance, promote and develop mining profession in Rwanda.We are safety and faster mining servuce. in all sectors we will reach there to rise quick mining<br>
+ <h3>Vision<hr></h3>
+trives to become a centre of excellence and best practices in advancing and to make people gain money quickly and speed process 
+ </td></tr>
+
+<tr height="40" bgcolor="#f3f3a1"><th colspan="8">Copyright 2018 One Mining Service</th>                                   </tr>
+<hr>
+
+
+
+
+
+</table>
+
+
+
+
+
+
+</body>
+
+
+
+</html>
